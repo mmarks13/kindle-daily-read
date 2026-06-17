@@ -1,0 +1,25 @@
+# secrets and local config
+.env
+.venv/
+
+# private family data — only the .example files are committed
+config/family_profile.yaml
+config/recent_context.yaml
+
+# working files
+out/
+
+# built EPUBs are produced on demand and emailed, not committed
+docs/issues/*.epub
+
+# python noise
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# cron run logs
+logs/
+
+# live memory — kid-derived ages + family context; keep local, not in git
+history.json
+issues/

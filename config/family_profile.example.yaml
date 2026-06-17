@@ -1,0 +1,43 @@
+# Stable family profile — the slow-changing facts that steer editorial selection.
+# Copy this to config/family_profile.yaml (gitignored) and fill in real values.
+# Keep it SPARSE on purpose. This is not a dossier; it is a few inputs that help
+# the magazine choose what to write about. Birth days are intentionally omitted —
+# only birth MONTH is stored, and ages are computed approximately from it.
+version: 1
+
+reader:
+  role: dad
+  # How writers may address the reader. "you" allows second person when a piece
+  # earns it; the default voice is still an intimate general magazine voice.
+  address: you
+  goals:
+    - build close individual relationships with both children
+    - be calm without becoming permissive
+    - create memorable family experiences
+    - understand the evidence without obsessing over optimization
+
+children:
+  # Generic ids only; the magazine never prints these in prose. birth_month is YYYY-MM.
+  - id: younger_child
+    birth_month: "20XX-XX"
+  - id: older_child
+    birth_month: "20XX-XX"
+
+editorial_preferences:
+  likes:
+    - evidence translation
+    - realistic, practical ideas
+    - literary magazine writing
+    - humor and reflection
+  dislikes:
+    - guilt-driven parenting
+    - generic listicles
+    - unsupported certainty
+    - constant crisis framing
+
+personalization:
+  # Names are never required. If false, the magazine uses only generic, natural
+  # descriptions ("your toddler", "the older one") and never invents names.
+  use_child_names: false
+  # Keep explicit age mentions rare; let ages drive topic choice, not the prose.
+  mention_ages_sparingly: true

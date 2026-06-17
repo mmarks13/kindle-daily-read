@@ -1,0 +1,23 @@
+# Recent context — temporary circumstances that can quietly steer topic selection.
+# Copy to config/recent_context.yaml (gitignored) and edit by hand whenever life
+# changes. This is DISTINCT from the stable profile: entries are short-lived.
+#
+# Behavior:
+#   - Entries past their `expires` date are ignored automatically (compute_ages.py).
+#   - visibility: quiet   -> may influence WHAT gets written, never named in prose.
+#     visibility: explicit -> a piece may engage the situation openly.
+#   - The magazine won't lean on the same item on back-to-back issues, and it never
+#     invents circumstances beyond what's written here.
+version: 1
+context:
+  - topic: "toddler is resisting bedtime"
+    added: "2026-06-15"
+    expires: "2026-07-15"
+    priority: medium        # low | medium | high
+    visibility: quiet
+
+  - topic: "family trip to the mountains coming up"
+    added: "2026-06-15"
+    expires: "2026-07-10"
+    priority: high
+    visibility: explicit

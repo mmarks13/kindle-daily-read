@@ -1,0 +1,42 @@
+# Curated source watchlist — the starting universe for the research subagent.
+# It checks these FIRST for a topic, then does open-web research for anything not
+# well covered here. Tiers signal trust for the KIND of claim a source can support.
+#
+#   evidence     -> may ground clinical/developmental/empirical claims
+#   interpreter  -> trusted frameworks & practical translation (label frameworks as such,
+#                   not as scientific consensus)
+#   literary     -> essays, history, culture, reflection; factual claims still need a source
+#   lived        -> texture and question-discovery ONLY; never the sole support for a
+#                   clinical or empirical claim
+version: 1
+
+evidence:
+  - { name: "American Academy of Pediatrics — HealthyChildren", url: "https://www.healthychildren.org/" }
+  - { name: "ZERO TO THREE", url: "https://www.zerotothree.org/" }
+  - { name: "Child Mind Institute", url: "https://childmind.org/" }
+  - { name: "Harvard Center on the Developing Child", url: "https://developingchild.harvard.edu/" }
+  - { name: "Yale Parenting Center / Alan Kazdin (evidence-based behavior change)", url: "https://yaleparentingcenter.yale.edu/" }
+  - { name: "Understood.org", url: "https://www.understood.org/" }
+  - { name: "Common Sense Media — research", url: "https://www.commonsensemedia.org/research" }
+  - { name: "Greater Good Science Center (Berkeley)", url: "https://greatergood.berkeley.edu/" }
+  - { name: "PubMed / peer-reviewed studies & systematic reviews", url: "https://pubmed.ncbi.nlm.nih.gov/" }
+
+interpreter:
+  - { name: "Dr. Becky Kennedy (Good Inside)", url: "https://www.goodinside.com/" }
+  - { name: "Emily Oster (ParentData)", url: "https://parentdata.org/" }
+  - { name: "Cara Goodwin (Parenting Translator)", url: "https://parentingtranslator.com/" }
+  - { name: "Aliza Pressman (Raising Good Humans)", url: "https://raisinggoodhumanspodcast.com/" }
+  - { name: "Mona Amin (PedsDocTalk)", url: "https://pedsdoctalk.com/" }
+  - { name: "Ross Greene / Lives in the Balance (collaborative problem solving)", url: "https://livesinthebalance.org/" }
+  - { name: "Janet Lansbury (RIE-based — a framework, not universal consensus)", url: "https://www.janetlansbury.com/" }
+
+literary:
+  - { name: "The New Yorker", url: "https://www.newyorker.com/" }
+  - { name: "The Atlantic — Family", url: "https://www.theatlantic.com/family/" }
+  - { name: "The New York Times Magazine / Well", url: "https://www.nytimes.com/section/magazine" }
+  - { name: "Aeon", url: "https://aeon.co/" }
+  - { name: "Psyche", url: "https://psyche.co/" }
+
+lived:
+  - { name: "Dad-focused podcasts and first-person essays", url: "" }
+  - { name: "Carefully selected parenting forums & community discussions", url: "" }

@@ -1,0 +1,70 @@
+{
+  "date": "2026-06-16",
+  "mood": "Holding",
+  "note": "Weekday issue. Pieces: toddler self-regulation/co-regulation at bedtime (Iris, developmental explainer, younger_child); mental load & division of labor and perceived-fairness->conflict (Nadia, marriage essay, marriage); history of the invention of childhood (Aries, contested) pivoting to the recent invention of the involved father (Griswold) (Soren, history closer, dad).",
+  "calculated_ages": [
+    {"id": "younger_child", "age_months": 23, "stage": "toddler"},
+    {"id": "older_child", "age_months": 92, "stage": "early elementary"}
+  ],
+  "context_used": ["toddler is resisting bedtime"],
+  "pieces": [
+    {
+      "title": "The Brakes Come Later",
+      "author": "Iris",
+      "format": "developmental explainer",
+      "register": "learn",
+      "focus": "younger_child",
+      "topics": ["self-regulation", "executive function", "tantrums", "bedtime", "co-regulation"],
+      "frameworks": ["co-regulation"],
+      "interventions": ["stay calm and co-regulate", "keep a consistent bedtime routine"],
+      "activities": [],
+      "marriage_theme": null,
+      "sources": [
+        "https://developingchild.harvard.edu/science/key-concepts/executive-function/",
+        "https://developingchild.harvard.edu/resources/working-paper/building-the-brains-air-traffic-control-system-how-early-experiences-shape-the-development-of-executive-function/",
+        "https://www.zerotothree.org/resource/toddler-tantrums-101-why-they-happen-and-what-you-can-do/",
+        "https://www.zerotothree.org/resource/your-calm-is-their-calm-co-regulation-strategies-for-infants-and-toddlers/",
+        "https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Temper-Tantrums.aspx"
+      ],
+      "is_fiction": false
+    },
+    {
+      "title": "The Part Nobody Sees",
+      "author": "Nadia",
+      "format": "marriage/family-systems essay",
+      "register": "question",
+      "focus": "marriage",
+      "topics": ["mental load", "cognitive labor", "division of labor", "fairness", "conflict"],
+      "frameworks": ["mental load"],
+      "interventions": ["trade ownership of a whole domain, not just visible tasks", "make the invisible ledger visible"],
+      "activities": [],
+      "marriage_theme": "division of labor and the mental load",
+      "sources": [
+        "https://www.allisondaminger.com/research",
+        "https://behavioralscientist.org/how-couples-share-cognitive-labor-and-why-it-matters/",
+        "https://journals.sagepub.com/doi/10.1177/0003122419859007",
+        "https://www.pewresearch.org/social-trends/2023/04/13/in-a-growing-share-of-u-s-marriages-husbands-and-wives-earn-about-the-same/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5365149/"
+      ],
+      "is_fiction": false
+    },
+    {
+      "title": "Childhood Was Invented (Or So They Said)",
+      "author": "Soren",
+      "format": "history essay",
+      "register": "enjoy",
+      "focus": "dad",
+      "topics": ["history of childhood", "history of fatherhood", "Aries", "Griswold"],
+      "frameworks": [],
+      "interventions": [],
+      "activities": [],
+      "marriage_theme": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Centuries_of_Childhood",
+        "https://en.wikipedia.org/wiki/Philippe_Ari%C3%A8s",
+        "https://books.google.com/books/about/Fatherhood_in_America.html?id=htknAAAAYAAJ"
+      ],
+      "is_fiction": false
+    }
+  ]
+}

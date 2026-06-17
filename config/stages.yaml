@@ -1,0 +1,13 @@
+# Developmental stage boundaries, in completed months of age (inclusive ranges).
+# A SOFT planning aid for matching topics and research to a child's age — never a
+# diagnosis or a rigid classification. Edit freely; compute_ages.py reads this.
+# Order matters: the first range whose max >= age_months wins.
+version: 1
+stages:
+  - { name: infant,            min: 0,   max: 11 }
+  - { name: toddler,           min: 12,  max: 35 }
+  - { name: preschool,         min: 36,  max: 59 }   # 3–4 years
+  - { name: early elementary,  min: 60,  max: 95 }   # 5–7 years
+  - { name: middle childhood,  min: 96,  max: 131 }  # 8–10 years
+  - { name: preteen,           min: 132, max: 155 }  # 11–12 years
+  - { name: adolescence,       min: 156, max: 215 }  # 13–17 years
