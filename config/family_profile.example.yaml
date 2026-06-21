@@ -18,10 +18,13 @@ reader:
 
 children:
   # Generic ids only; the magazine never prints these in prose. birth_month is YYYY-MM.
+  # pronouns is optional; if set, writers may use it naturally (and never name the child).
   - id: younger_child
     birth_month: "20XX-XX"
+    pronouns: they/them
   - id: older_child
     birth_month: "20XX-XX"
+    pronouns: they/them
 
 editorial_preferences:
   likes:

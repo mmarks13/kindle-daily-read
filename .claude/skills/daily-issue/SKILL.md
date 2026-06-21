@@ -105,9 +105,14 @@ every issue needs advice, an activity, or even both children.
 ## Personalization (mostly invisible)
 
 Run `compute_ages.py` first; let the children's ages and active context steer **what** you
-write about. Keep it out of the prose: mention ages rarely and only naturally ("with a
-toddler and an early-elementary kid in the same house, fairness gets slippery"); **never**
-print the child identifiers; never imply a private detail not in the profile or context.
+write about. Its output also carries the reader's **`goals`** and **`editorial_preferences`**
+— treat the goals as the reader's standing priorities that the issue should serve over time,
+and lean toward the `likes` and away from the `dislikes`. These shape selection and emphasis, not
+the prose; don't quote or list them. Keep it out of the prose: mention ages rarely and only
+naturally ("with a toddler and an early-elementary kid in the same house, fairness gets
+slippery"); **never** print the child identifiers; never imply a private detail not in the
+profile or context. Each child carries `pronouns` in the output;
+use them naturally when a piece refers to a child, still never naming them.
 Address the reader with an intimate magazine voice, using "you" when a piece earns it.
 
 **Recent context:** items marked `visibility: quiet` may shape topic choice but must not
@@ -153,7 +158,8 @@ Write only from what it (or you) actually read.
 
 1. **Context.** Run:
    `python scripts/compute_ages.py --profile config/family_profile.yaml --context config/recent_context.yaml --date <YYYY-MM-DD>`
-   Read `history.json`. Note ages, stages, active context.
+   Read `history.json`. Note ages, stages, pronouns, active context, and the reader's
+   goals and editorial preferences.
 2. **Plan.** Work the three steps above. Decide the lineup: for each piece its register,
    format, topic/angle, focus, and writer. Note what you're deliberately not repeating.
 3. **Research.** Run the `source-researcher` subagent; verify every non-fiction claim.

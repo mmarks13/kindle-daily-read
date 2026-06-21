@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Compute each child's approximate age and developmental stage for an issue date,
-and return the currently-active recent-context items.
+and return the currently-active recent-context items plus the reader's goals and
+editorial preferences (so they can steer what the issue is about).
 
 The daily-issue skill runs this FIRST, every issue, and reads the JSON. Ages are
 always derived fresh from birth MONTH + issue date — never copied from a past issue.
@@ -120,6 +121,7 @@ def compute(profile_path: str, context_path: str | None, date_str: str,
         children.append({
             "id": child.get("id"),
             "birth_month": bm,
+            "pronouns": child.get("pronouns"),
             "age_months": months,
             "age_years": years,
             "remainder_months": rem,
@@ -129,10 +131,13 @@ def compute(profile_path: str, context_path: str | None, date_str: str,
             "approximate": birthday_this_month,
         })
 
+    reader = profile.get("reader", {}) or {}
     return {
         "issue_date": date_str,
         "children": children,
         "active_context": active_context(context_path, issue_date),
+        "goals": reader.get("goals", []) or [],
+        "editorial_preferences": profile.get("editorial_preferences", {}) or {},
     }
 
 
