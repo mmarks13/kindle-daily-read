@@ -28,7 +28,7 @@ import re
 import sys
 
 # Mirrors the masthead in .claude/skills/daily-issue/SKILL.md.
-MASTHEAD = {"Iris", "Theo", "Dara", "Nadia", "Soren", "Will", "Cleo"}
+MASTHEAD = {"Iris", "Theo", "Dara", "Nadia", "Soren", "Will", "Cleo", "Mira"}
 
 # Inclusive word bands by day-of-week (Mon=0 ... Sun=6).
 WORD_BANDS = {

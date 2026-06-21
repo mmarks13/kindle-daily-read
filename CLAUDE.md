@@ -32,7 +32,7 @@ unlabeled data with sparse guidance.)
 
 ## Map
 - `.claude/skills/daily-issue/SKILL.md` — the daily editorial workflow + the masthead of
-  seven writers (Iris, Theo, Dara, Nadia, Soren, Will, Cleo). Principle/feel-driven.
+  eight writers (Iris, Theo, Dara, Nadia, Soren, Will, Cleo, Mira). Principle/feel-driven.
 - `.claude/agents/source-researcher.md` — research subagent (watchlist + open web).
 - `config/family_profile.yaml` (gitignored) — stable, sparse family facts; birth months.
   `config/family_profile.example.yaml` is the committed template.

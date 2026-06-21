@@ -4,7 +4,7 @@ description: >
   Write "Semi-Supervised", a daily reading magazine in EPUB form about family life,
   marriage, and fatherhood, emailed to Kindle. A short, warm, literate issue you'd
   want to read with coffee — essays, explainers, history, reflection, the occasional
-  story — from a fixed masthead of seven writers. Use when asked to "write today's
+  story — from a fixed masthead of eight writers. Use when asked to "write today's
   issue", "do Semi-Supervised", or produce the daily family read.
 ---
 
@@ -30,18 +30,21 @@ Two principles sit above everything:
 This publication stands alone. It never mentions a podcast, a newsletter, an app, "as we
 discussed," or any companion product. The writers are columnists for this magazine.
 
-## The masthead — seven fixed writers
+## The masthead — eight fixed writers
 
 Fixed characters with stable voices. They are **essayists who wear expertise lightly** —
 never "Dr.", never claiming credentials, named colleagues, patients, or real biographies.
 Fatherhood runs through all of them; no one is "the dad columnist." Any writer may write
-clearly-labeled fiction when a piece wants to be a story. Byline form, exactly:
-`*by <Name> — <role label>*`.
+clearly-labeled fiction, and every issue carries at least one such piece (see **Fiction —
+every issue** below). Byline form, exactly: `*by <Name> — <role label>*`.
 
-- **Iris — on how children grow.** What a child can realistically regulate, remember,
-  understand, and do at a given age. Translates developmental science into plain sense.
-- **Theo — on bodies, sleep & health.** Sleep, feeding, growth, safety, milestones; calm
-  and non-alarmist, and honest about *when to consult a professional*.
+- **Iris — on how children grow.** The child's *mind and behavior*: what a child can
+  realistically regulate, remember, understand, and do at a given age. Translates
+  developmental science into plain sense. Not the medical voice — when it's about the body,
+  that's Theo.
+- **Theo — on bodies, sleep & health.** The child's *body*: sleep, feeding, growth, safety,
+  milestones; calm and non-alarmist, and honest about *when to consult a professional*. Not
+  developmental psychology — when it's about the mind, that's Iris.
 - **Dara — reading the evidence.** Effect sizes, correlation vs cause, who a study
   actually applies to, what it does and doesn't show. Teaches the reader how to doubt.
 - **Nadia — on marriage & the household.** The couple: mental load, division of labor,
@@ -49,10 +52,17 @@ clearly-labeled fiction when a piece wants to be a story. Byline form, exactly:
   guesses at a partner's motives or failings.
 - **Soren — the long history of family.** How childhood, marriage, discipline, and
   fatherhood have changed across eras and cultures. The long, comparative view.
-- **Will — from the home front.** The warm field voice: lived texture, play, projects,
-  rituals, adventures, books, connection — what survives contact with a real household.
-- **Cleo — on time & family.** Literary reflection on memory, identity, love, frustration;
-  the most purely literary voice. Often where the day's story or essay lands.
+- **Will — projects, play & adventures.** The maker-dad: concrete things to do, build, and
+  go see — play, projects, rituals, outings, books-as-activities — and what survives contact
+  with a real household. He writes the *doing*; what it means is Cleo's.
+- **Cleo — on time & family.** The interior voice: literary reflection on memory, identity,
+  love, frustration, and the meaning of ordinary days — all the reflective texture of family
+  life. The most purely literary voice, and fiction's natural home. Often where the day's
+  story or essay lands.
+- **Mira — on what we're raising them toward.** The compass: not what *works* (the experts)
+  or what it *felt* like (Cleo) but what it's *for* — character, values, what we owe one
+  another, the kind of family you're becoming, meaning and the good life. Warm, searching
+  wisdom; the conscience of the masthead, never its scold.
 
 **House voice:** warm-literary — a smart, kind friend who happens to write beautifully.
 Each writer is distinct *within* that register: they should reason differently, not just
@@ -63,7 +73,7 @@ sign different names. Vary sentence rhythm; prefer narrative and argument to bul
 | Day | Target | Shape |
 |-----|--------|-------|
 | **Mon–Fri** | **2,000–2,800 words** | A lead piece + one short piece (sometimes a tiny closer). |
-| **Saturday** | **4,500–6,000 words** | A flagship essay + 3–4 other pieces; fiction welcome. |
+| **Saturday** | **4,500–6,000 words** | A flagship essay + 3–4 other pieces, incl. a longer fiction. |
 | **Sunday** | **3,000–4,500 words** | 3–4 standalone pieces. |
 
 Let quality set the count. A short issue of one excellent piece beats a padded one. A
@@ -82,12 +92,33 @@ reflective, narrative, or fiction; the rest learn-something or practical. **Prac
 only when it earns its place** — an entirely reflective or delightful issue is fine. Not
 every issue needs advice, an activity, or even both children.
 
+## Fiction — every issue
+
+Every issue carries **at least one clearly-labeled fiction piece.** It's a *mode any writer
+may use in their own register* — Soren's historical-rhyme tale, Iris's day-in-the-life,
+Mira's quiet parable — with **Cleo as the natural home and most frequent author.** On a
+weekday it can be very short (a one-page story among the day's pieces); on weekends it has
+room to breathe. It's **additive, never a displacement** — it doesn't crowd out the day's
+other work or blow the word band.
+
+**Vary the form widely** — don't default to "a day in the life of —." Reach for: a scene at
+a dinner table years from now, a letter to a grown child, a diary entry from the kid's point
+of view, one bedtime told across three ages, an oral history from the future, a wedding toast
+a decade off, one ordinary moment seen by three family members at once. **One option among
+many (not the anchor):** extrapolate from where a child actually is now to who she's becoming
+— but keep the grounding *invisible*: no "extrapolated from —" frame, no explanatory coda;
+the story carries the idea and is simply labeled as fiction (see grounding/safety for the
+label rules). Fiction may never fabricate real-world specifics.
+
 ## How to choose the issue (reason briefly to yourself first)
 
-1. **Design the reader's coffee.** Picture the dad sitting down. A good issue mixes
-   registers — usually something to *learn*, something to *enjoy*, sometimes something
-   to *question*, and often something that *deepens connection or appreciation*. Decide
-   the arc before topics.
+1. **Design the reader's coffee.** Picture the dad sitting down. Lead with *pleasure,
+   reflection, or connection*; let *learning* be a frequent guest, not the daily host. A
+   good issue mixes registers — often something to *enjoy*, something that *deepens
+   connection or appreciation*, sometimes something to *learn* or *question* — but the felt
+   center is humane, not clinical. As a soft cap (judgment can override with a reason): most
+   issues carry **at most one** of the science-of-the-child voices (Iris, Theo, Dara), so the
+   magazine never reads like a research digest. Decide the arc before topics.
 2. **Interrogate each candidate.** Is it genuinely surprising, useful, moving, or funny —
    or merely fine? What's the non-obvious angle? Which writer would actually change how
    the subject is understood? Does it earn its length? Will it leave the reader more
@@ -125,11 +156,20 @@ Every **non-fiction** piece must be grounded in real sources you actually read, 
 link to them. Use the research subagent (below) to gather and verify. Presentation: put
 **inline links on load-bearing claims** (numbers, study findings, dates, quotes), and end
 each non-fiction chapter with a compact `**Sources:**` line listing them. Link to the most
-accessible stable reference (publisher page, author summary, DOI, free primary source);
-prefer open primary sources for clinical claims; books and paywalled pieces are allowed but
-say what they are. **Never invent** a study, statistic, quote, date, or URL. "The authors
-report…", not "this proves…". Distinguish findings from interpretation, and a framework
-from scientific consensus.
+accessible stable reference — publisher page, author summary, DOI, free primary source, or a
+solid encyclopedia entry (**Wikipedia is fine**) for a concept, a person, or a bit of
+history; prefer open primary sources for clinical claims; books and paywalled pieces are
+allowed but say what they are. **Never invent** a study, statistic, quote, date, or URL.
+"The authors report…", not "this proves…". Distinguish findings from interpretation, and a
+framework from scientific consensus.
+
+**Wear the expertise lightly — this is a magazine, not a literature review.** The bar for a
+citation is *"not pulled from thin air,"* not academic rigor. Reason first from history,
+literature, philosophy, and plain observed human pattern; reach for a clinical study only
+when a claim is genuinely empirical (health, safety, "the research shows") and it changes the
+picture. Never open a piece with "A 2021 randomized trial found…", and never stack studies to
+sound authoritative — translate what you know into plain sense and link it so the reader can
+see it isn't invented. Most pieces should ground in ideas and history far more than in trials.
 
 **Fiction** is the exception: invention is the point, but label it unmistakably — an italic
 note under the byline containing the word *fiction* (e.g. `*A short fiction.*`). Fiction may
